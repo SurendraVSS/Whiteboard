@@ -26,7 +26,7 @@ var joinRoomParams = {
   uuid: "029e6cf03a9111ee9e6241209ace6cf9",
   // The unique identifier of a user. If you use versions earlier than v2.15.0, do not add this line.
   uid: "user uid",
-  roomToken: "NETLESSROOM_YWs9ZE5XVTFueGlHeGc4ZjRyRiZleHBpcmVBdD0xNjkyMTg2MDU3MjQyJm5vbmNlPTE2OTIxODI0NTcyNDIwMCZyb2xlPTAmc2lnPWQ2ZjAwMTQwNjRjZWYzMzAxYjNkZWU5MGRkOWI4MTYzMTY3YTA3NzNhZmFhMzY5YmVjZGU0ZGNhMjRkNGFjMDgmdXVpZD0wMjllNmNmMDNhOTExMWVlOWU2MjQxMjA5YWNlNmNmOQ",
+  roomToken: "NETLESSROOM_YWs9ZE5XVTFueGlHeGc4ZjRyRiZleHBpcmVBdD0xNjkyMTkxMjUxNjMyJm5vbmNlPTE2OTIxODc2NTE2MzIwMCZyb2xlPTAmc2lnPWM3YTRkMmZiMjc4MTRhODIzNmYxODJhN2U0YjVkZjYwZDAzZjM3MGMyZWY1YzQ4NjJjM2I0NTg4ZWVlNDRkN2QmdXVpZD0wMjllNmNmMDNhOTExMWVlOWU2MjQxMjA5YWNlNmNmOQ",
 };
 
 // Join the whiteboard room and display the whiteboard on the web page.
