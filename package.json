@@ -1,0 +1,15 @@
+{
+  "name": "agora_join_whiteboard_room",
+  "version": "1.0.0",
+  "description": "",
+  "main": "joinWhiteboard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2",
+    "white-web-sdk": "^2.16.43"
+  }
+}
